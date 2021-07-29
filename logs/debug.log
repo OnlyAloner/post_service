@@ -1,0 +1,315 @@
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:03:50.512Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:03:50.515Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:03:50.532Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:03:50.542Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:10:52.032Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:10:52.035Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:10:52.052Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:10:52.063Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:39.000Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:39.002Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:39.019Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:39.029Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:48.636Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:48.640Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:48.657Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:20:48.668Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:24:24.211Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:24:24.214Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:24:24.237Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:24:24.248Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:28:29.692Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:28:29.695Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:28:29.712Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:28:29.724Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:50.359Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:50.362Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:50.378Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:50.390Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:57.287Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:57.291Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:57.306Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:37:57.316Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:22.596Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:22.600Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:22.616Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:22.627Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:24.755Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:24.758Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:24.775Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T08:50:24.785Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:37.165Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:37.169Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:37.187Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:37.198Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:58.734Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:58.737Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:58.754Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T09:04:58.765Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T09:05:01.048Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T09:05:01.051Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T09:05:01.067Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T09:05:01.077Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-28T09:45:28.496Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-28T09:45:28.499Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-28T09:45:28.516Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-28T09:45:28.527Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Main',
+  level: 'info',
+  timestamp: '2021-07-29T07:02:57.837Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message:
+   'Connecting to db: mongodb://localhost:27017/CRUDpost_service',
+  level: 'info',
+  timestamp: '2021-07-29T07:02:57.840Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'grpc server is running at 50051',
+  level: 'info',
+  timestamp: '2021-07-29T07:02:57.855Z',
+  label: 'warehouse-service',
+  metadata: {} }
+{ message: 'Connected to the database',
+  level: 'info',
+  timestamp: '2021-07-29T07:02:57.867Z',
+  label: 'warehouse-service',
+  metadata: {} }
